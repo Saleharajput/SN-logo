@@ -1,0 +1,2 @@
+# SN-logo
+style simplified
